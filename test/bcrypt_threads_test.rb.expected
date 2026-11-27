@@ -1,0 +1,3 @@
+threads: 4 x 1500
+digests not the thread's own: 0
+malformed salts: 0
